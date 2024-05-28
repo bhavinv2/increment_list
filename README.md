@@ -34,19 +34,4 @@ Project Structure
 Requirements
 * Basic understanding of HTML, CSS, and JavaScript.
 * Code editor (e.g., Visual Studio Code) for any modifications.
-Learning Resources
-HTML
-* MDN Web Docs: HTML
-* W3Schools: HTML
-CSS
-* MDN Web Docs: CSS
-* W3Schools: CSS
-JavaScript
-* MDN Web Docs: JavaScript
-* W3Schools: JavaScript
-Project-Based Learning
-* JavaScript30
-* FreeCodeCamp
-* JavaScript Counter | How to create a JavaScript counter with HTML, CSS & JavaScript
-* JavaScript COUNTER PROGRAM 🔢
-* Simple Counter | Javascript Beginner Project Tutorial
+
